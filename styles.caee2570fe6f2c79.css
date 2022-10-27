@@ -1168,7 +1168,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .mat-raised-button.mat-warn .mat-ripple-element,
 .mat-fab.mat-warn .mat-ripple-element,
 .mat-mini-fab.mat-warn .mat-ripple-element {
-  background-color: #ffffff1a;
+  background-color: #ecdec8;
 }
 .mat-stroked-button:not([class*="mat-elevation-z"]),
 .mat-flat-button:not([class*="mat-elevation-z"]) {
@@ -1359,7 +1359,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
   opacity: 0.4;
 }
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-primary .mat-ripple-element {
-  background-color: #ffffff1a;
+  background-color: #ecdec8;
 }
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-warn {
   background-color: #f44336;
@@ -1370,7 +1370,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
   opacity: 0.4;
 }
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-warn .mat-ripple-element {
-  background-color: #ffffff1a;
+  background-color: #ecdec8;
 }
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-accent {
   background-color: #ff4081;
@@ -1381,7 +1381,7 @@ textarea.cdk-textarea-autosize-measuring-firefox {
   opacity: 0.4;
 }
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-accent .mat-ripple-element {
-  background-color: #ffffff1a;
+  background-color: #ecdec8;
 }
 .mat-table {
   background: #e18e5c;
@@ -2813,7 +2813,7 @@ td.mat-footer-cell {
   opacity: 0.12;
 }
 .mat-toolbar {
-  background: #f5f5f5;
+  background: #11ae9f;
   color: #000000de;
 }
 .mat-toolbar.mat-primary {
@@ -2941,7 +2941,7 @@ button {
   cursor: pointer;
 }
 :root {
-  --scrollbarBG: #000000;
+  --scrollbarBG: #fac2a0;
   --thumbBG: #28fbfa;
 }
 ::-webkit-scrollbar {
